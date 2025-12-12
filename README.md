@@ -50,7 +50,6 @@
 ### **Master Material Rate (only master side, not txn)**
 
 * `master-materials-rate-controller`
-  (⚠️ CRUD endpoints except rate-analysis side)
 
 ### **Master State**
 
